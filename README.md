@@ -1,9 +1,11 @@
 # tareign-docs
+```
 Dungeon & Dragons in AR
+```
 
-# Getting Started
+## Getting Started
 
-# Features
+## Features
 - [ ] Augmented Reality
 - [ ] Map Creation
 - [ ] Map Editing 
@@ -11,16 +13,18 @@ Dungeon & Dragons in AR
 - [ ] Loading Map
 - [ ] Shared view of maps
 
-# Contributing
+## Contributing
 
-# Authors
+## Authors
 - Laith Abad
 - Lukas Kulbis
 - Mikhail Glikin
 - Mingi Ryu
 - Shaoyie Soh
 
-# License
+## License
 
-# Acknowledgments
+## Acknowledgments
+```
 Team project for CS498VR at University of Illinois at Urbana-Champaign
+```
