@@ -1,9 +1,9 @@
 # tareign-docs
 
 # Feature List
-[] AR
-[] Map creation
-[] Map editing 
-[] Saving 
-[] Loading 
-[] Shared view of maps
+- [ ] Augmented Reality
+- [ ] Map Creation
+- [ ] Map Editing 
+- [ ] Saving Map
+- [ ] Loading Map
+- [ ] Shared view of maps
