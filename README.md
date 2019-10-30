@@ -4,6 +4,7 @@ Dungeon & Dragons in AR
 ```
 
 ## Getting Started
+Check out the [wiki](https://github.com/tAReign/tareign-docs/wiki)
 
 ## Features
 - [ ] Augmented Reality
@@ -11,7 +12,10 @@ Dungeon & Dragons in AR
 - [ ] Map Editing 
 - [ ] Saving Map
 - [ ] Loading Map
-- [ ] Shared view of maps
+
+## Tools
+- Unity
+- ARCore
 
 ## Contributing
 
