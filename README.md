@@ -7,15 +7,17 @@ Dungeon & Dragons in AR
 Check out the [wiki](https://github.com/tAReign/tareign-docs/wiki)
 
 ## Features
-- [ ] Augmented Reality
-- [ ] Map Creation
-- [ ] Map Editing 
-- [ ] Saving Map
-- [ ] Loading Map
+- [x] Augmented Reality
+- [x] Map Creation
+- [x] Map Editing 
+- [x] Saving Map
+- [x] Loading Map
 
 ## Tools
-- Unity
+- Android Studio
 - ARCore
+- Sceneform
+- GridView
 
 ## Contributing
 
